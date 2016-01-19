@@ -1,3 +1,5 @@
 # GoCode
 
-Programming practice in Go
+* Programming practice in Go
+
+Learning source:  https://tour.golang.org
