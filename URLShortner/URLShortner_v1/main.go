@@ -8,7 +8,7 @@ import (
 const AddForm = `
 <form method="POST" action="/add">
 URL: <input type="text" name="url">
-<input type="submit" value="Add">
+<input type="submit" value="Add" id="button">
 </form>
 `
 var store = NewURLStore()
